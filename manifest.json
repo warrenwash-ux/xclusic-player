@@ -1,0 +1,23 @@
+{
+  "name": "Xclusic",
+  "short_name": "Xclusic",
+  "description": "Licensed in-store streaming for Lamb Music Works partner merchants.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#F4ECDD",
+  "theme_color": "#F4ECDD",
+  "icons": [
+    {
+      "src": "assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
